@@ -28,14 +28,17 @@ button{
 }
 h3{
     font-size: 150%;
+    color: #434750;
 }
 h4{
     font-size: 120%;
+    color: #585c63;
 }
 .counter{
     background-color: #45abea;
     border-radius: 10%;
     padding: 0rem;
+
     
 }
 .counter2{
@@ -75,7 +78,7 @@ h4{
     
 }
 .counter8{
-    background-color: #b0c926;
+    background-color:   #45abea;
     border-radius: 10%;
     padding: 0rem;
     
