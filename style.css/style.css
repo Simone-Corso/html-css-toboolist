@@ -6,12 +6,12 @@
 }
 .brend-title{
     color: black;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 900;
     display: inline-block;
 }
 img{
     height: 100%;
-    vertical-align: middle;
+    vertical-align: bottom;
     
 }
