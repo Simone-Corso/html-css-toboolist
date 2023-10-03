@@ -10,6 +10,7 @@
     font-weight: 900;
 }
 img{
-    height: 100px;
+    height: 100%;
+    vertical-align: middle;
     
 }
