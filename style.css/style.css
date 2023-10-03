@@ -15,3 +15,9 @@ img{
     vertical-align: bottom;
     
 }
+.header-botton{
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+}
