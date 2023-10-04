@@ -4,6 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    height: 100px;
+    padding: 1rem 2rem;
+}
 #main-title{
     color: black;
     font-size: 3rem;
