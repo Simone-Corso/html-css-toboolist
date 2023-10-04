@@ -17,6 +17,7 @@ header{
 }
 main{
     background-color: white;
+    height: 500px;
 }
 img{
     height: 100%;
