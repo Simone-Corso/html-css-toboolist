@@ -11,7 +11,7 @@ header{
 #main-title{
     color: black;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: bolder;
     display: inline-block;
     vertical-align: middle;
 }
@@ -21,7 +21,8 @@ main{
     padding-top: 4rem;
 }
 .taskbar{
-    padding: 1rem ;
+    padding: 1rem 5rem;
+    border-bottom: 3px solid; color: white;
 }
 img{
     height: 100%;
