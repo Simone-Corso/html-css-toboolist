@@ -17,13 +17,20 @@ header{
 }
 main{
     background-color: white;
-    height: 500px;
+    height: 700px;
 }
 img{
     height: 100%;
     vertical-align: middle;
-    
 }
+.to-do-list{
+    background-color: white;
+    height: 500px;
+    width: 70%;
+    margin: auto;
+
+}
+
 .header-botton{
 position: absolute;
 left: 10%;
