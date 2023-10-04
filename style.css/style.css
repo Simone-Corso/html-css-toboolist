@@ -13,10 +13,11 @@ header{
     font-size: 3rem;
     font-weight: 900;
     display: inline-block;
+    vertical-align: middle;
 }
 img{
     height: 100%;
-    vertical-align: bottom;
+    vertical-align: middle;
     
 }
 .header-botton{
