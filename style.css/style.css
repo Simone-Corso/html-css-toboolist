@@ -18,6 +18,10 @@ header{
 main{
     background-color: white;
     height: 700px;
+    padding-top: 4rem;
+}
+.taskbar{
+    padding: 1rem ;
 }
 img{
     height: 100%;
