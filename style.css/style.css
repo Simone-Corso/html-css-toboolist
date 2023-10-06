@@ -19,7 +19,8 @@ header{
     
 }
 main{
-    background-color: white;
+    background-color: #f6f8f9;
+    height: 500px;
 }
 .vertical-align-middle{
     vertical-align: middle;
