@@ -37,6 +37,12 @@ header{
 }
 .button-blue{
     background-color: #45abea;
+    color: white;
+}
+.button-white{
+    border: 1px solid lightgray;
+    background-color: white;
+    color: lightgray;
 }
 main{
     background-color: #f6f8f9;
