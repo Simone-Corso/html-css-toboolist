@@ -51,6 +51,9 @@ ul{
 .elements-list{
     padding: 3rem 5rem;
 }
+.todo-list-section{
+    padding-bottom: 2rem;
+}
 .element-circle{
     display: inline-block;
     height: 1.5rem;
