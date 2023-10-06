@@ -18,4 +18,8 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
+img{
+    height: 100px;
+    vertical-align: middle;
+}
 
