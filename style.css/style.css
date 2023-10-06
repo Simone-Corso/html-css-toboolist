@@ -28,6 +28,16 @@ header{
     padding: 1rem 5rem;
     border-bottom: 3px solid #f6f8f9;
 }
+.button{
+    border: none;
+    padding: .5rem .1rem;
+    font-size: 1.05rem;
+    margin-right: .5rem;
+    border-radius: .5rem;
+}
+.button-blue{
+    background-color: #45abea;
+}
 main{
     background-color: #f6f8f9;
     padding-top: 4rem;
