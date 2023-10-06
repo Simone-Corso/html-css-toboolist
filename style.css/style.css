@@ -52,12 +52,19 @@ ul{
     padding: 3rem 5rem;
 }
 .element-circle{
+    display: inline-block;
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 50%;
+    border: 1px solid blue;
+    line-height: 1.5rem;
+    text-align: center;
     
 }
 .inner-list{
     padding-left: 1rem;
     padding-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     
 }
 main{
