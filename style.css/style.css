@@ -21,15 +21,17 @@ header{
 .to-do-list{
     background-color: white;
     height: 500px;
+    margin: auto;
 }
 main{
     background-color: #f6f8f9;
+    padding-top: 4rem;
     height: 500px;
 }
 .vertical-align-middle{
     vertical-align: middle;
 }
 img{
-    height: 100px;
+    height: 100%;
 }
 
