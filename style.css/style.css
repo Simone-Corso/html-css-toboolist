@@ -20,7 +20,7 @@ header{
 }
 .to-do-list{
     background-color: white;
-    height: 500px;
+    /*height: 500px;*/
     width: 70%;
     margin: auto;
 }
@@ -81,7 +81,7 @@ ul{
 main{
     background-color: #f6f8f9;
     padding-top: 4rem;
-    height: 700px;
+    /*height: 700px;*/
 }
 .vertical-align-middle{
     vertical-align: middle;
