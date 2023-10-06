@@ -62,7 +62,8 @@ ul{
     
 }
 .element-circle-green{
-    
+    color: green;
+    border: 1px solid green;
 }
 .inner-list{
     padding-left: 1rem;
