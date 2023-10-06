@@ -68,6 +68,10 @@ ul{
     color: green;
     border: 1px solid green;
 }
+.element-circle-red{
+    color: red;
+    border: 1px solid red;
+}
 .inner-list{
     padding-left: 1rem;
     padding-top: 1rem;
