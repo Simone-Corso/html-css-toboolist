@@ -21,12 +21,17 @@ header{
 .to-do-list{
     background-color: white;
     height: 500px;
+    width: 70%;
     margin: auto;
+}
+.taskbar{
+    padding: 1rem 5rem;
+    border-bottom: 1px solid;
 }
 main{
     background-color: #f6f8f9;
     padding-top: 4rem;
-    height: 500px;
+    height: 700px;
 }
 .vertical-align-middle{
     vertical-align: middle;
