@@ -32,5 +32,6 @@ img{
     background-color: white;
     height: 500px;
     width: 70%;
-    margin: 3 rem auto;
+    margin: auto;
+    border-radius: 5rem;
 }
