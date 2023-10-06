@@ -44,6 +44,9 @@ header{
     background-color: white;
     color: lightgray;
 }
+.elements-list{
+    padding: 3rem 5rem;
+}
 main{
     background-color: #f6f8f9;
     padding-top: 4rem;
