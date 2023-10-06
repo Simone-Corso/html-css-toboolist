@@ -26,7 +26,7 @@ header{
 }
 .taskbar{
     padding: 1rem 5rem;
-    border-bottom: 1px solid;
+    border-bottom: 3px solid #f6f8f9;
 }
 main{
     background-color: #f6f8f9;
