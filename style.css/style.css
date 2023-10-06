@@ -16,10 +16,15 @@ header{
     font-size: 3rem;
     font-weight: bolder;
     display: inline-block;
+    
+}
+main{
+    background-color: white;
+}
+.vertical-align-middle{
     vertical-align: middle;
 }
 img{
     height: 100px;
-    vertical-align: middle;
 }
 
