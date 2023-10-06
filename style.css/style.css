@@ -46,12 +46,13 @@ ul{
 .button-white{
     border: 1px solid lightgray;
     background-color: white;
-    color: lightgray;
+    color: rgb(162, 162, 162);
 }
 .elements-list{
     padding: 3rem 5rem;
 }
 .inner-list{
+    padding-left: 1rem;
     
 }
 main{
