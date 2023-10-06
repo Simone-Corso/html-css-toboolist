@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
     height: 100px;
     padding: 1rem 2rem;
@@ -15,23 +18,4 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
-main{
-    background-color: white;
-    height: 700px;
-    padding-top: 4rem;
-}
-.taskbar{
-    padding: 1rem 5rem;
-    border-bottom: 3px solid; color: white;
-}
-img{
-    height: 100%;
-    vertical-align: middle;
-}
-.to-do-list{
-    background-color: white;
-    height: 500px;
-    width: 70%;
-    margin: auto;
-    border-radius: 5rem;
-}
+
