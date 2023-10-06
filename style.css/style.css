@@ -18,6 +18,10 @@ header{
     display: inline-block;
     
 }
+.to-do-list{
+    background-color: white;
+    height: 500px;
+}
 main{
     background-color: #f6f8f9;
     height: 500px;
